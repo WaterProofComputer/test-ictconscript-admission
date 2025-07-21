@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://waterproofcomputer.github.io/test-ictadmission/",
+  "homepage": "https://waterproofcomputer.github.io/test-ictconscript-admission/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
