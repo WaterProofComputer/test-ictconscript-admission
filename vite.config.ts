@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/test-ictconscript-admission/'
+  base: '/test-ictconscript-admission'
 })
